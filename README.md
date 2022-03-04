@@ -2,6 +2,11 @@
 
 # POC Automated releases
 
-1. Configure conventional changelog for repo
-1. Configure commitlint for repo
-1. Configure commitizen for repo
+## Configure git repository
+1. [x] Install and configure commitlint/conventional changelog for repo
+1. [x] (Optional, opinionated but very nice) Install and configure commitizen for repo
+
+## Configure remote
+1. [ ] Set up a 'build' workflow
+1. [ ] Set up a 'release' workflow for all merges into 'main'
+    - Release must run semantic-release to generate changelog, bump package version, tag the commit, and publish to npm (github for now)
