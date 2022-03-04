@@ -9,4 +9,4 @@
 ## Configure remote
 1. [ ] Set up a 'build' workflow
 1. [ ] Set up a 'release' workflow for all merges into 'main'
-    - Release must run semantic-release to generate changelog, bump package version, tag the commit, and publish to npm (github for now)
+    - Workflow must run semantic-release to generate changelog, bump package version, tag the commit, and publish to npm (github for now)
