@@ -8,6 +8,12 @@
 
 ## Configure remote
 1. [ ] Set up a 'build' workflow
-1. [ ] Set up a 'release' workflow for all merges into 'main'
+1. [ ] Set up a 'release' workflow for all commits to 'main'
     - Workflow must run semantic-release to generate changelog, bump package version, tag the commit, and publish to npm (github for now)
-1. [ ] Get release workflow to bump package version with `@semantic-release/git`
+1. [ ] Get release workflow to bump package version - https://github.com/semantic-release/git
+1. [ ] Get release workflow to update and commit changelog - https://github.com/semantic-release/changelog
+1. [ ] Publish package to npm
+1. [ ] Configure release bot for Slack - https://github.com/juliuscc/semantic-release-slack-bot
+
+## Bonus bits
+1. [ ] Ensure github actions cache node modules
