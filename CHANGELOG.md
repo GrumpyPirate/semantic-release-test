@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/GrumpyPirate/semantic-release-test/compare/v1.3.0...v1.4.0) (2022-06-11)
+
+
+### Features
+
+* **package:** change package name ([f33c3e4](https://github.com/GrumpyPirate/semantic-release-test/commit/f33c3e4c2fdb219c4d1ffa0a9e4bc724dd294f7d))
+
 # [1.3.0](https://github.com/GrumpyPirate/semantic-release-test/compare/v1.2.0...v1.3.0) (2022-06-11)
 
 
