@@ -1,5 +1,5 @@
 {
-  "name": "@grumpytech/test-automated-release",
+  "name": "grumpytech-test-automated-release",
   "version": "1.4.0",
   "scripts": {
     "dev": "vite",
