@@ -7,8 +7,8 @@
 1. [x] (Optional, opinionated but very nice) Install and configure commitizen for repo
 
 ## Configure remote
-1. [ ] Set up a 'build' workflow
-1. [ ] Set up a 'release' workflow for all commits to 'main'
+1. [x] Set up a 'build' workflow
+1. [x] Set up a 'release' workflow for all commits to 'main'
     - Workflow must run semantic-release to generate changelog, bump package version, tag the commit, and publish to npm (github for now)
 1. [ ] Get release workflow to bump package version - https://github.com/semantic-release/git
 1. [ ] Get release workflow to update and commit changelog - https://github.com/semantic-release/changelog
