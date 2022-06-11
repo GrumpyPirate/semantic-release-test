@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/GrumpyPirate/semantic-release-test/compare/v1.6.0...v1.7.0) (2022-06-11)
+
+
+### Features
+
+* **app:** change stuff ([4395099](https://github.com/GrumpyPirate/semantic-release-test/commit/43950994b7591f39a0dae17a188f9e0f38deefac))
+
 # [1.6.0](https://github.com/GrumpyPirate/semantic-release-test/compare/v1.5.0...v1.6.0) (2022-06-11)
 
 
