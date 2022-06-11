@@ -39,6 +39,7 @@ function App() {
             Vite Docs
           </a>
         </p>
+        <p>Version bump!</p>
       </header>
     </div>
   )
