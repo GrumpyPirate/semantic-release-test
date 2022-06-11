@@ -1,6 +1,5 @@
 {
   "name": "test-automated-release",
-  "private": true,
   "version": "0.0.0-development",
   "scripts": {
     "dev": "vite",
