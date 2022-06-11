@@ -16,4 +16,4 @@
 1. [ ] Configure release bot for Slack - https://github.com/juliuscc/semantic-release-slack-bot
 
 ## Bonus bits
-1. [ ] Ensure github actions cache node modules
+1. [x] Ensure github actions cache node modules
