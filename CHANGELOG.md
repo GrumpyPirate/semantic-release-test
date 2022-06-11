@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/GrumpyPirate/semantic-release-test/compare/v1.2.0...v1.3.0) (2022-06-11)
+
+
+### Features
+
+* **progress:** make some progress ([f44b796](https://github.com/GrumpyPirate/semantic-release-test/commit/f44b7968d69de4ded29723f6baf4ca2437690170))
+
 # [1.2.0](https://github.com/GrumpyPirate/semantic-release-test/compare/v1.1.0...v1.2.0) (2022-06-11)
 
 
