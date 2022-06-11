@@ -1,11 +1,8 @@
-name: Release
-on:
-  push:
-    branches:
-      - main
+name: Build
+on: pull_request
 jobs:
-  release:
-    name: Release
+  build:
+    name: build
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -19,8 +16,5 @@ jobs:
           cache: 'npm'
       - name: Install dependencies
         run: npm ci
-      - name: Release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-        run: npm run semantic-release
+      - name: Build
+        run: npm run build
