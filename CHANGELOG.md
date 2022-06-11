@@ -3,6 +3,15 @@
 
 ### Features
 
+* **app:** change stuff ([676568f](https://github.com/GrumpyPirate/semantic-release-test/commit/676568fc9f590dd48f1210436c7cf04b0a205be1))
+* **package:** change package name ([f33c3e4](https://github.com/GrumpyPirate/semantic-release-test/commit/f33c3e4c2fdb219c4d1ffa0a9e4bc724dd294f7d))
+* **stuff:** change some stuff ([e4cc9f2](https://github.com/GrumpyPirate/semantic-release-test/commit/e4cc9f28c7e435aab085456c6962de7030bafd74))
+
+# [1.4.0](https://github.com/GrumpyPirate/semantic-release-test/compare/v1.3.0...v1.4.0) (2022-06-11)
+
+
+### Features
+
 * **package:** change package name ([f33c3e4](https://github.com/GrumpyPirate/semantic-release-test/commit/f33c3e4c2fdb219c4d1ffa0a9e4bc724dd294f7d))
 * **stuff:** change some stuff ([e4cc9f2](https://github.com/GrumpyPirate/semantic-release-test/commit/e4cc9f28c7e435aab085456c6962de7030bafd74))
 
