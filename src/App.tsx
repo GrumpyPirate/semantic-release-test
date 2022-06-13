@@ -40,7 +40,6 @@ function App() {
           </a>
         </p>
       </header>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum minus deleniti ad vero a minima magni harum, earum ratione, cum mollitia facere id est culpa ab quisquam nam illo nobis!</p>
     </div>
   )
 }
