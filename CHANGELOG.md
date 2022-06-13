@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/GrumpyPirate/semantic-release-test/compare/v1.8.0...v2.0.0) (2022-06-13)
+
+
+### Features
+
+* **app:** remove some crucial text ([56865df](https://github.com/GrumpyPirate/semantic-release-test/commit/56865df40d4564c0baab468f060375f09aeb2e3f))
+
+
+### BREAKING CHANGES
+
+* **app:** Removes some text that external services rely on
+
 # [1.8.0](https://github.com/GrumpyPirate/semantic-release-test/compare/v1.7.0...v1.8.0) (2022-06-13)
 
 
