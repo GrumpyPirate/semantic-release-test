@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/GrumpyPirate/semantic-release-test/compare/v1.7.0...v1.8.0) (2022-06-13)
+
+
+### Features
+
+* **app:** add some text ([90ec7ac](https://github.com/GrumpyPirate/semantic-release-test/commit/90ec7ac920a39a57d5f1f406292e4e14a402c319))
+
 # [1.7.0](https://github.com/GrumpyPirate/semantic-release-test/compare/v1.6.0...v1.7.0) (2022-06-11)
 
 
