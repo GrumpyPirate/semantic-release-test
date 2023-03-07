@@ -12,6 +12,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>Hello Vite + React!</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime modi quaerat vel ratione laborum totam, quasi eligendi odit cumque quis excepturi, tempora magni, laudantium in. Qui provident alias voluptatibus quae.</p>
         <p>
           <button type="button" onClick={() => setCount((count) => count + 1)}>
             count is: {count}
