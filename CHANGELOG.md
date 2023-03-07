@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/GrumpyPirate/semantic-release-test/compare/v2.0.0...v2.1.0) (2023-03-07)
+
+
+### Features
+
+* **app:** add crucial copy ([5ab6d57](https://github.com/GrumpyPirate/semantic-release-test/commit/5ab6d57c64882bd270ca705d4d2527649c0d51cf))
+
 # [2.0.0](https://github.com/GrumpyPirate/semantic-release-test/compare/v1.8.0...v2.0.0) (2022-06-13)
 
 
